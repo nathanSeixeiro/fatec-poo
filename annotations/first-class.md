@@ -5,3 +5,4 @@
 - História do Java
 - Revisão de conceitos básicos 
 - Dicas sobre boas práticas 
+- mudança de paradigmas
